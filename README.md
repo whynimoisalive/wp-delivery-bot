@@ -2,7 +2,6 @@
 
 Certainly! I'll add a flowchart using Mermaid to visualize the order process. Here's an updated version of the README.md with a Mermaid flowchart included:
 
-```markdown
 # LocalShop WhatsApp Bot
 
 ## Overview
@@ -103,4 +102,4 @@ For any queries or support, please contact [Your Name] at [your.email@example.co
 - [OpenStreetMap Nominatim](https://nominatim.org/)
 - [Node.js](https://nodejs.org/) / [Python](https://www.python.org/)
 - [MongoDB](https://www.mongodb.com/) / [Firebase](https://firebase.google.com/)
-```
+
