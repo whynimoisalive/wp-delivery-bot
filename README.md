@@ -1,6 +1,5 @@
 # wp-delivery-bot
 
-# LocalShop WhatsApp Bot
 
 ## Overview
 
