@@ -1,7 +1,5 @@
 # wp-delivery-bot
 
-Certainly! I'll add a flowchart using Mermaid to visualize the order process. Here's an updated version of the README.md with a Mermaid flowchart included:
-
 # LocalShop WhatsApp Bot
 
 ## Overview
